@@ -1,9 +1,9 @@
 # Weather-App
 
-I created this simple weather app using SwiftUI
+Simple weather app using SwiftUI
 
-- Integration with OpenWeatherMap 
 - MVVM Design Pattern 
+- Integration with OpenWeatherMap 
 - Custom JSON Decoding 
 - Temperature Unit Conversion 
 
