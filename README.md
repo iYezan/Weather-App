@@ -8,5 +8,6 @@ I created this simple weather app using SwiftUI
 - Temperature Unit Conversion 
 
 <p align="right">
-  <img src="https://user-images.githubusercontent.com/29463442/157142034-4a6af6fe-8268-4ee4-9b22-0f3d901510d2.png" width="350" alt="accessibility text">
+  <img src="https://user-images.githubusercontent.com/29463442/157142523-d25d39bb-c9ae-4948-ae7e-e5e240dfdfde.png" width="210" alt="accessibility text">
 </p>
+
